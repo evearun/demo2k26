@@ -6,3 +6,4 @@ Author - Arun Kumar Verma
 added hello world.
 added hello world again in another line.
 another change for the merge message 
+chnages done from github site edit options to check the fetch options
